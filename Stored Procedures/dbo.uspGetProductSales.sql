@@ -8,6 +8,7 @@ GO
 -- Create date: 10/9/2016
 -- Description:	Product Sales
 -- Added comment for testing 7/16/2021
+-- Added another comment for testing 7/28/2021
 -- =============================================
 CREATE PROCEDURE [dbo].[uspGetProductSales]	
 	@ProductCategoryKey int=NULL,
